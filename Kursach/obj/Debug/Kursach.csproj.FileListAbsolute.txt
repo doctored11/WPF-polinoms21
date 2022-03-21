@@ -1,0 +1,102 @@
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\MainWindow.g.cs
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\App.g.cs
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\MainWindow.baml
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.g.resources
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignColors.dll
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignColors.pdb
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\VSC#\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+D:\VSC#\KursachPr\Kursach\Kursach\obj\Debug\App.baml
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\Kursach.exe.manifest
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\Kursach.application
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignColors.dll
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignColors.pdb
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\MainWindow.g.cs
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\App.g.cs
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\App.baml
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\MainWindow.baml
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.g.resources
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.exe.manifest
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.application
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\VSC#\!KursavayaDisign\KursachPr\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\Kursach.exe.manifest
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\Kursach.application
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\Kursach.exe
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\Kursach.pdb
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\MaterialDesignColors.dll
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Edward\Desktop\Программирование\Kursach\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\MainWindow.g.cs
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\App.g.cs
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\App.baml
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\MainWindow.baml
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.g.resources
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.exe.manifest
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.application
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.exe
+C:\Users\Edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.pdb
+C:\Users\edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\Программирование\Kursach\obj\Debug\Kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\Kursach.exe.manifest
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\Kursach.application
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\Kursach.exe
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\Kursach.pdb
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\MaterialDesignColors.dll
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\MaterialDesignColors.pdb
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\edward\Desktop\C# WPF\Kursach\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\MainWindow.g.cs
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\App.g.cs
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\App.baml
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\MainWindow.baml
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.g.resources
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.exe.manifest
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.application
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.csproj.CopyComplete
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.exe
+C:\Users\edward\Desktop\C# WPF\Kursach\obj\Debug\Kursach.pdb
